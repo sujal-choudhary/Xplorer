@@ -21,6 +21,7 @@ def display_banner():
 ╚═╝  ╚═╝╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    
                                                              
 {Fore.YELLOW}{Style.BRIGHT}Welcome to Xplorer - IP Information Tool
+
 Developed by Sujal Choudhary
     """
     print(banner)
