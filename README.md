@@ -52,6 +52,8 @@ Xplorer is a tool designed to fetch and display geolocation and ISP information 
 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
+> "Developed by Sujal Choudhary"
+
 ## Example
 
 ```sh
