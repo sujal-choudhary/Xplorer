@@ -36,11 +36,13 @@ Xplorer is a tool designed to fetch and display geolocation and ISP information 
 1. Run the tool using the command:
     ```sh
     python xplorer.py
-    ```
+    ```   
 
 2. When prompted, enter the IP address you want to look up.
 
-3. The tool will display detailed information about the IP address, including:
+3. If you could not enter any IP address and enter, then this tool show your own IP address details
+
+4. The tool will display detailed information about the IP address, including:
 
     - Country
     - Region
