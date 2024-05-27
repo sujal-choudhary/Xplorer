@@ -82,3 +82,6 @@ ISP: Google LLC
 Organization: Google LLC
 AS: AS15169 Google LLC
 '''
+## Warning
+
+**Warning:** Use of this tool must comply with all applicable laws. Do not use this tool for illegal activities. The developers are not responsible for any misuse of this tool.
