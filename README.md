@@ -19,7 +19,7 @@ Xplorer is a tool designed to fetch and display geolocation and ISP information 
 1. Clone the repository:
     ```sh
     git clone https://github.com/Sujal74756/Xplorer.git
-    cd IPInfoXplorer
+    cd Xplorer
     ```
 
 2. Install the required libraries:
