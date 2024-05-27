@@ -53,6 +53,9 @@ Xplorer is a tool designed to fetch and display geolocation and ISP information 
 This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 > "Developed by Sujal Choudhary"
+## Warning
+
+**Warning:** Use of this tool must comply with all applicable laws. Do not use this tool for illegal activities. The developers are not responsible for any misuse of this tool.
 
 ## Example
 
@@ -82,6 +85,4 @@ ISP: Google LLC
 Organization: Google LLC
 AS: AS15169 Google LLC
 '''
-## Warning
 
-**Warning:** Use of this tool must comply with all applicable laws. Do not use this tool for illegal activities. The developers are not responsible for any misuse of this tool.
