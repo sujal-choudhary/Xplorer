@@ -48,6 +48,9 @@ Xplorer is a tool designed to fetch and display geolocation and ISP information 
     - ISP
     - Organization
     - AS number
+## License
+
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
 ## Example
 
@@ -76,3 +79,4 @@ Timezone: America/Los_Angeles
 ISP: Google LLC
 Organization: Google LLC
 AS: AS15169 Google LLC
+'''
