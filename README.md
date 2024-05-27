@@ -16,13 +16,17 @@ Xplorer is a tool designed to fetch and display geolocation and ISP information 
 
 ## Installation
 
-1. Clone the repository:
+1. Update and Upgrade your librarys
+
+2. Install 'python'
+
+3. Clone the repository:
     ```sh
     git clone https://github.com/Sujal74756/Xplorer.git
     cd Xplorer
     ```
 
-2. Install the required libraries:
+4. Install the required libraries:
     ```sh
     pip install -r requirements.txt
     ```
