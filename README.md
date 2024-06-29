@@ -22,7 +22,7 @@ Xplorer is a tool designed to fetch and display geolocation and ISP information 
 
 3. Clone the repository:
     ```sh
-    git clone https://github.com/Sujal74756/Xplorer.git
+    git clone https://github.com/sujal-choudhary/Xplorer.git
     cd Xplorer
     ```
 
